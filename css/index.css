@@ -46,6 +46,7 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+/* --------------------------------------------- */
 
 * {
     box-sizing: border-box;
@@ -70,6 +71,25 @@ p {
     width: 800px;
     margin: 0 auto;
 }
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: baseline;
+    margin: 1rem 0 2rem;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: black;
+    margin: 0 2rem;
+}
+
+.main_image {
+    margin: 1rem 0;
+}
+
 
 .top-content {
     display: flex;
