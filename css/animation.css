@@ -6,7 +6,7 @@
 
 @keyframes icon {
     0%   {left:0px; top:0px;}
-    25%  {left:45%; top:18.75rem;}
+    25%  {left:100%; top:0rem;}
     50%  {left:100%; top:50rem;}
     75%  {left:-10rem; top:50rem;}
     100% {left:0px; top:0px;}
