@@ -1,0 +1,10 @@
+.about_content {
+    margin-bottom: 2rem;
+        border-bottom: 1px dashed black;
+}
+
+.about_content h2, .about_content p {
+    margin: 1.5rem;
+}
+
+
